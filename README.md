@@ -14,3 +14,4 @@ This repository contains the code for a static e-commerce website. It includes H
 - `style.css`: The CSS file for styling the web pages.
 - `script.js`: The JavaScript file containing the site functionality.
 - `img/`: A directory containing images used in the project.
+## [Project Link](https://zaid78602.github.io/E-commerce-website/)
